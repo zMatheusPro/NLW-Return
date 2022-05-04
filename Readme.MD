@@ -8,6 +8,12 @@ Nessa etapa foi desenvolvido um protótipo do widget, que é um widget que mostr
 
 ⚙️ **Código da Aula:** `#NextLevel`
 
+## 🎨 2º Dia: Finalizando o Front-End do Widget
+
+Nessa etapa foi finalizada o front do widget, como por exemplo, o cabeçalho, o rodapé, o conteúdo, etc.
+
+⚙️ **Código da Aula:** `#NeverStopLearning`
+
 ## ❤️ Agradecimentos Especiais:
 
-🔰 [Diego Fernandes](https://github.com/diego3g) - Responsável pelo Front-End.
+🔰 [Diego Fernandes](https://github.com/diego3g) - Responsável pelo Front-End & Back-End.
